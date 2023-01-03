@@ -1,4 +1,4 @@
-module tableimage
+module github.com/edot92/tableimage
 
 go 1.12
 
